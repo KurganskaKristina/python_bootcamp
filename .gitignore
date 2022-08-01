@@ -1,0 +1,11 @@
+# pycharm
+.idea
+venv
+
+# build
+build
+*.egg-info
+dist
+
+# Others
+__pycache__

@@ -1,0 +1,2 @@
+# Python 3.9
+moviepy     == 1.0.3
